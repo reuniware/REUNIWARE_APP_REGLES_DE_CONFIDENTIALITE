@@ -1,5 +1,3 @@
----
-
 # Politique de Confidentialité
 
 **Dernière mise à jour : 15 mai 2026**
