@@ -11,7 +11,7 @@ GOLD ICT ANALYZER (ci-après "l'Application") accorde une importance capitale à
 *   **Accès aux ressources de l'appareil :** L'Application ne nécessite aucun accès à vos fichiers, photos, contacts ou autres ressources sensibles de votre appareil, sauf si cela est techniquement indispensable au fonctionnement local de l'application (et dans ce cas, aucune donnée n'est transmise à un serveur).
 
 ## 3. Publicités et Services Tiers
-L'Application utilise des services publicitaires tiers (ex: Google AdMob) pour afficher des publicités interstitielles. 
+L'Application utilise un service publicitaire tiers Google AdMob pour afficher des publicités interstitielles. 
 
 *   **Collecte par des tiers :** Ces réseaux publicitaires peuvent collecter certaines données techniques (telles que votre identifiant publicitaire Android, votre adresse IP ou des informations sur votre appareil) afin de vous proposer des publicités pertinentes et de mesurer l'efficacité des campagnes publicitaires.
 *   **Contrôle de l'utilisateur :** Vous pouvez à tout moment réinitialiser ou supprimer votre identifiant publicitaire via les paramètres de votre appareil Android (*Paramètres > Google > Annonces*).
