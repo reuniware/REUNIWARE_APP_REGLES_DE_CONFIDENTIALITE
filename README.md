@@ -3,7 +3,7 @@
 **Dernière mise à jour : 15 mai 2026**
 
 ## 1. Engagement de confidentialité
-[Nom de votre application] (ci-après "l'Application") accorde une importance capitale à votre vie privée. La présente politique de confidentialité explique que **notre application ne collecte, ne stocke et ne partage aucune donnée utilisateur.**
+GOOGLE ICT ANALYZER (ci-après "l'Application") accorde une importance capitale à votre vie privée. La présente politique de confidentialité explique que **notre application ne collecte, ne stocke et ne partage aucune donnée utilisateur.**
 
 ## 2. Collecte de données
 *   **Données personnelles :** L'Application ne collecte aucune information personnelle (nom, adresse e-mail, numéro de téléphone, localisation, etc.).
