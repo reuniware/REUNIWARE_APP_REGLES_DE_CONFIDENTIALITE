@@ -24,7 +24,7 @@ Puisque nous ne collectons aucune donnée, il n'y a aucun risque de fuite ou de 
 Nous pouvons mettre à jour cette politique de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique sur cette page.
 
 ## 7. Contact
-Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à l'adresse suivante : **[Votre adresse e-mail de contact]**
+Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à l'adresse suivante : **reunisoft AT gmail.com**
 
 ---
 
