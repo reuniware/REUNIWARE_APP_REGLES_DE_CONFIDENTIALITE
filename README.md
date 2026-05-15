@@ -1,7 +1,3 @@
-Pour une application qui ne collecte aucune donnée, la clé est la **transparence** et la **simplicité**. Les utilisateurs (et Google Play) apprécient les politiques de confidentialité courtes et claires.
-
-Voici un modèle que vous pouvez adapter.
-
 ---
 
 # Politique de Confidentialité
