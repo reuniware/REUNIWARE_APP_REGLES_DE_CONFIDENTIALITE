@@ -10,9 +10,12 @@ GOLD ICT ANALYZER (ci-après "l'Application") accorde une importance capitale à
 *   **Données d'utilisation :** L'Application ne suit pas votre activité, vos préférences ou vos habitudes d'utilisation.
 *   **Accès aux ressources de l'appareil :** L'Application ne nécessite aucun accès à vos fichiers, photos, contacts ou autres ressources sensibles de votre appareil, sauf si cela est techniquement indispensable au fonctionnement local de l'application (et dans ce cas, aucune donnée n'est transmise à un serveur).
 
-## 3. Services tiers
-*   **Publicités :** L'Application n'intègre aucun réseau publicitaire tiers qui pourrait collecter des données sur votre comportement.
-*   **Analytique :** L'Application n'utilise aucun outil de suivi (comme Google Analytics, Firebase, etc.) pour analyser le comportement des utilisateurs.
+## 3. Publicités et Services Tiers
+L'Application utilise des services publicitaires tiers (ex: Google AdMob) pour afficher des publicités interstitielles. 
+
+*   **Collecte par des tiers :** Ces réseaux publicitaires peuvent collecter certaines données techniques (telles que votre identifiant publicitaire Android, votre adresse IP ou des informations sur votre appareil) afin de vous proposer des publicités pertinentes et de mesurer l'efficacité des campagnes publicitaires.
+*   **Contrôle de l'utilisateur :** Vous pouvez à tout moment réinitialiser ou supprimer votre identifiant publicitaire via les paramètres de votre appareil Android (*Paramètres > Google > Annonces*).
+*   **Nos engagements :** Bien que nous utilisions ces services, nous ne collectons, ne conservons et n'analysons personnellement aucune donnée utilisateur. Nous n'avons aucun accès direct aux données collectées par ces réseaux publicitaires.
 
 ## 4. Stockage des données
 Toutes les informations traitées par l'Application restent exclusivement sur votre appareil. Aucune donnée n'est envoyée vers nos serveurs ou des serveurs tiers.
