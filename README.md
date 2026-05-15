@@ -25,16 +25,3 @@ Nous pouvons mettre à jour cette politique de temps à autre. Nous vous informe
 
 ## 7. Contact
 Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à l'adresse suivante : **reunisoft AT gmail.com**
-
----
-
-### Conseils supplémentaires pour rassurer vos utilisateurs et Google Play :
-
-1.  **La transparence est la clé :** Si votre application utilise une autorisation spécifique (par exemple, pour afficher une image), expliquez dans la fiche Play Store *pourquoi* vous en avez besoin, même si vous ne collectez rien.
-2.  **Le fichier `AndroidManifest.xml` :** Assurez-vous de ne pas demander des permissions inutiles (ex: `INTERNET`, `ACCESS_FINE_LOCATION`). Si votre application fonctionne totalement hors ligne, supprimez la permission `INTERNET`. Cela prouvera techniquement que vous ne pouvez pas envoyer de données.
-3.  **La Fiche Play Store :** Dans la console Google Play, lors du remplissage du questionnaire "Sécurité des données", soyez cohérent avec cette politique :
-    *   Répondez **"Non"** à toutes les questions concernant la collecte et le partage de données.
-    *   Google vous demandera probablement de confirmer qu'aucune donnée n'est collectée ; votre politique de confidentialité servira de preuve.
-4.  **Hébergement :** Publiez ce texte sur une page web accessible (un Google Doc public, une page GitHub Pages gratuite, ou votre propre site web) et insérez le lien dans la section "Politique de confidentialité" de votre fiche Google Play Console.
-
-*Avertissement : Ce document est un modèle. Bien qu'il couvre les bases nécessaires pour une application sans collecte de données, il ne remplace pas un conseil juridique si votre application venait à évoluer.*
