@@ -4,6 +4,7 @@
 
 ## 1. Engagement de confidentialité
 GOLD ICT ANALYZER (ci-après "l'Application") accorde une importance capitale à votre vie privée. La présente politique de confidentialité explique que **notre application ne collecte, ne stocke et ne partage aucune donnée utilisateur.**
+MA MAIRIE 2026 (ci-après "l'Application") accorde une importance capitale à votre vie privée. La présente politique de confidentialité explique que **notre application ne collecte, ne stocke et ne partage aucune donnée utilisateur.**
 
 ## 2. Collecte de données
 *   **Données personnelles :** L'Application ne collecte aucune information personnelle (nom, adresse e-mail, numéro de téléphone, localisation, etc.).
