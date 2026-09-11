@@ -3,16 +3,9 @@
 **Dernière mise à jour : 11 septembre 2026**  
 **Version : 1.0**
 
-> **À compléter avant publication :** remplacez les champs entre crochets par les informations exactes de l’éditeur. Cette politique est un modèle adapté au fonctionnement actuel de l’application ; elle ne constitue pas un avis juridique.
-
 ## 1. Responsable du traitement
 
-L’application **Élections 2027** est éditée par :
-
-- **Éditeur :** [nom légal ou nom de l’entrepreneur individuel]
-- **Adresse :** [adresse postale]
-- **E-mail de contact :** [adresse e-mail dédiée à la confidentialité]
-- **Pays d’établissement :** [pays]
+- **E-mail de contact :** reuniware@gmail.com
 
 Pour toute question concernant cette politique ou l’exercice de vos droits, vous pouvez contacter l’éditeur à l’adresse indiquée ci-dessus.
 
@@ -148,7 +141,7 @@ Selon votre lieu de résidence et la réglementation applicable, vous pouvez dis
 - droit de retirer votre consentement à tout moment lorsque le traitement repose sur celui-ci ;
 - droit de définir des directives relatives au sort de vos données après votre décès, lorsque la loi le prévoit.
 
-Pour exercer vos droits, envoyez une demande à **[adresse e-mail de contact]** en précisant l’objet de votre demande et, si nécessaire, les informations permettant de vérifier raisonnablement votre identité. L’éditeur répondra dans les délais prévus par la réglementation applicable.
+Pour exercer vos droits, envoyez une demande à reuniware@gmail.com en précisant l’objet de votre demande et, si nécessaire, les informations permettant de vérifier raisonnablement votre identité. L’éditeur répondra dans les délais prévus par la réglementation applicable.
 
 Vous pouvez également déposer une réclamation auprès de l’autorité de protection des données compétente, notamment la **CNIL** pour la France : [www.cnil.fr](https://www.cnil.fr/).
 
@@ -158,7 +151,7 @@ Les demandes concernant les données collectées directement par Google ou par u
 
 L’Application n’est pas conçue pour collecter volontairement des données personnelles auprès d’enfants et ne demande pas la création d’un compte.
 
-Si vous êtes un parent ou un représentant légal et pensez qu’un enfant nous a transmis des données personnelles, contactez l’éditeur à **[adresse e-mail de contact]** afin que la situation puisse être examinée.
+Si vous êtes un parent ou un représentant légal et pensez qu’un enfant nous a transmis des données personnelles, contactez l’éditeur à reuniware@gmail.com afin que la situation puisse être examinée.
 
 L’éditeur doit vérifier les obligations spécifiques applicables aux mineurs et à la publicité dans les pays où l’Application est distribuée, notamment dans Google Play Console.
 
@@ -166,25 +159,12 @@ L’éditeur doit vérifier les obligations spécifiques applicables aux mineurs
 
 Cette politique peut être modifiée pour refléter une évolution de l’Application, de ses partenaires, de la réglementation ou de ses pratiques de traitement.
 
-La version en vigueur sera publiée dans ce fichier ou à l’adresse suivante : **[URL publique de la politique de confidentialité]**. La date de dernière mise à jour sera modifiée à chaque changement important.
+La version en vigueur sera publiée dans ce fichier. La date de dernière mise à jour sera modifiée à chaque changement important.
 
 ## 14. Contact
 
 Pour toute question relative à la confidentialité :
 
-- **E-mail :** [adresse e-mail dédiée]
-- **Adresse postale :** [adresse de l’éditeur]
-- **URL publique de cette politique :** [URL à renseigner dans Google Play Console]
+- **E-mail :** reuniware@gmail.com
 
 ---
-
-## Checklist avant publication sur Google Play
-
-- [ ] Remplacer tous les champs entre crochets.
-- [ ] Publier ce document sur une URL HTTPS accessible sans connexion.
-- [ ] Utiliser cette même URL dans Google Play Console.
-- [ ] Vérifier la déclaration **Data safety** de Google Play Console.
-- [ ] Confirmer si les annonces sont personnalisées ou non personnalisées.
-- [ ] Configurer et tester le mécanisme de consentement requis pour l’EEE, le Royaume-Uni et la Suisse.
-- [ ] Vérifier les informations et liens de la fiche Google Play après chaque modification d’AdMob.
-- [ ] Faire relire la version finale par un professionnel compétent si l’Application est distribuée dans plusieurs pays.
